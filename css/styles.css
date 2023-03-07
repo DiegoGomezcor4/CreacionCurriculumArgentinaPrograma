@@ -270,6 +270,7 @@ main .social-icons #youtube {
     margin: 10px;
     padding: 20px;
     padding-left: 38%;
+    border-radius: 50px;
 
 }
 
@@ -302,4 +303,8 @@ main .social-icons #youtube {
    background: #25D366;
 }
 
+/* boton de mas informacion */
+#demo {
+    display: none;
+}
 
